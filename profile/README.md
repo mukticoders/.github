@@ -1,7 +1,7 @@
 Hi! Salam 👋 Welcome here!
 
 ## About Us
-✨Mukti Coders is a youth coding organization and team focused on building teamwork and gaining coding experience together.
+✨Mukti Coders is a youth coding organization and team focused on building teamwork and gaining coding experience together. [Closed in 2025]
 <br/><br/>
 
 ### Activities
